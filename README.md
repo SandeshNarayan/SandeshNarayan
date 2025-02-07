@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! 👋 I'm Sandesh Narayan
 
-<!--
-**SandeshNarayan/SandeshNarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IIT Kanpur**  
+💻 **Aspiring DevOps Engineer** | **Cloud Enthusiast** | **Software Development**  
+🚀 Passionate about automation, cloud computing, and backend development.  
 
-Here are some ideas to get you started:
+### 🚀 Skills & Tech Stack  
+- **Programming:** Python, Go, C  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, Linux  
+- **Databases:** SQL, PostgreSQL  
+- **Tools:** Git, CI/CD, Terraform  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](linkedin.com/in/sandesh-narayan)   
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/SandeshNarayan)  
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](sandesh_n)  
+
